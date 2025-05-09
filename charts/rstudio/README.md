@@ -23,7 +23,7 @@ You can also extend those images to build a custom one with all the packages you
 Install the DSRI Helm Charts on your machine, if not already done:
 
 ```bash
-helm repo add dsri https://maastrichtu-ids.github.io/dsri-helm-charts/
+helm repo add dsri https://nocsyshelmrepo.github.io/dsri-helm-charts/
 helm repo update
 ```
 
@@ -34,11 +34,13 @@ To deploy the chart with the release name `rstudio`:
 ```bash
 helm install rstudio dsri/rstudio \
   --set serviceAccount.name=anyuid \
-  --set service.openshiftRoute.enabled=true \
+  --set service.openshiftRoute.enabled=false \
   --set image.repository=ghcr.io/maastrichtu-ids/rstudio \
   --set image.tag=latest \
   --set storage.mountPath=/home/rstudio \
-  --set password=changeme
+  --set password=changeme \
+  --set service.openshift.tls.enabled=false \
+  --set serviceAccount.create=true 
 ```
 
 ## Updating the image in a deployed chart
