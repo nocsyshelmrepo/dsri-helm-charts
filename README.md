@@ -6,9 +6,9 @@ Helm charts to easily deploy Data Science workspaces and services on Kubernetes 
 
 Checkout the `charts` folder to browse the charts available: 
 
-* [JupyterLab](https://github.com/MaastrichtU-IDS/dsri-helm-charts/tree/main/charts/jupyterlab)
-* [RStudio](https://github.com/MaastrichtU-IDS/dsri-helm-charts/tree/main/charts/rstudio)
-* [Generic web app](https://github.com/MaastrichtU-IDS/dsri-helm-charts/tree/main/charts/webapp)
+* [JupyterLab](https://github.com/nocsyshelmrepo/dsri-helm-charts/tree/main/charts/jupyterlab)
+* [RStudio](https://github.com/nocsyshelmrepo/dsri-helm-charts/tree/main/charts/rstudio)
+* [Generic web app](https://github.com/nocsyshelmrepo/dsri-helm-charts/tree/main/charts/webapp)
 
 ## Install
 
@@ -17,7 +17,7 @@ To deploy charts from the terminal you will need to have `helm` installed on you
 Add the DSRI Helm Charts repository:
 
 ```bash
-helm repo add dsri https://maastrichtu-ids.github.io/dsri-helm-charts/
+helm repo add dsri https://nocsyshelmrepo.github.io/dsri-helm-charts/
 helm repo update
 ```
 
@@ -115,7 +115,7 @@ metadata:
 spec:
   name: dsri-helm-charts
   connectionConfig:
-    url: https://maastrichtu-ids.github.io/dsri-helm-charts/
+    url: https://nocsyshelmrepo.github.io/dsri-helm-charts/
 EOF
 ```
 
