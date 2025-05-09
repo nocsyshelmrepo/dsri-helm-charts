@@ -2,7 +2,7 @@
 # Declare variables to be passed into your templates.
 
 # Password to access the web interface
-password: ""
+password: "rstudio"
 username: "rstudio"
 
 # Number of threads for OpenBLAS
@@ -21,13 +21,15 @@ storage:
   mountPath: /home/rstudio
   # Mount the distributed shared memory
   enableDshm: true
+  # accessMode: ReadWriteOnce
+  # storageClass: ""
 
 serviceAccount:
   sudoEnabled: true
   # The name of the service account to use.
   name: "anyuid"
   # Specifies whether a service account should be created
-  create: false
+  create: true
   # Annotations to add to the service account
   annotations: {}
 
@@ -37,12 +39,12 @@ service:
   shinyPort: 3838
   type: ClusterIP
   openshiftRoute:
-    enabled: true
+    enabled: false
     host: ""
     path: ""
     wildcardPolicy: None
     tls:
-      enabled: true
+      enabled: false
       termination: edge
       insecureEdgeTerminationPolicy: Redirect
   ingress:
