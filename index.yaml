@@ -9,7 +9,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 7960d5fede27534674bc1b1edde5c38606283ab1745b0cc5eade40cf1ad9ddfb
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -22,10 +22,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.31/code-server-0.1.31.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.31/code-server-0.1.31.tgz
     version: 0.1.31
   - annotations:
       artifacthub.io/operator: "false"
@@ -35,7 +35,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 2245acb556986edda60cd92d2fbbafe702489c274cbead384ea36b6235e26005
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -48,10 +48,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.30/code-server-0.1.30.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.30/code-server-0.1.30.tgz
     version: 0.1.30
   - annotations:
       artifacthub.io/operator: "false"
@@ -61,7 +61,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 73e9062d725f86dfbb32b7ac046900f42fbca336e0626c6127e3689fff64794b
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -74,10 +74,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.29/code-server-0.1.29.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.29/code-server-0.1.29.tgz
     version: 0.1.29
   - annotations:
       artifacthub.io/operator: "false"
@@ -87,7 +87,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: cfb7d09e72926b22a8caeb202cbae3601406cff3f6ae57cb194e2cb0368d9214
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -100,10 +100,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.28/code-server-0.1.28.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.28/code-server-0.1.28.tgz
     version: 0.1.28
   - annotations:
       artifacthub.io/operator: "false"
@@ -113,7 +113,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: a857d30709163dcaf5981ff8300f9da0f9f742bbd51303c7cfdc590145e3cd45
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -126,10 +126,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.27/code-server-0.1.27.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.27/code-server-0.1.27.tgz
     version: 0.1.27
   - annotations:
       artifacthub.io/operator: "false"
@@ -139,7 +139,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 477052b884cb2a02feac1d1d5908cc1040a733753cd0073f9aba81bf0de03f9d
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -152,10 +152,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.26/code-server-0.1.26.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.26/code-server-0.1.26.tgz
     version: 0.1.26
   - annotations:
       artifacthub.io/operator: "false"
@@ -165,7 +165,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: e4da02732402a42dfea4c085833a1c805a40ba921faf726d41da6002987d9513
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -178,10 +178,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.25/code-server-0.1.25.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.25/code-server-0.1.25.tgz
     version: 0.1.25
   - annotations:
       artifacthub.io/operator: "false"
@@ -191,7 +191,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 62a9e0236ad3839b524482dc331388b9ad36ec1a3bd822760293620d2a7298ce
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -204,10 +204,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.24/code-server-0.1.24.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.24/code-server-0.1.24.tgz
     version: 0.1.24
   - apiVersion: v2
     appVersion: 1.16.0
@@ -215,7 +215,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 5a3b216218867bb8970f6ed30cc54943fb12dc9b417a6025c472cfae217d6d6e
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -228,10 +228,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.22/code-server-0.1.22.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.22/code-server-0.1.22.tgz
     version: 0.1.22
   - apiVersion: v2
     appVersion: 1.16.0
@@ -239,7 +239,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: a75048ffe0ad6c03280c13770c95a7eaf27fb7afb637e96fd9c5bcd43fcbb665
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -252,10 +252,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.21/code-server-0.1.21.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.21/code-server-0.1.21.tgz
     version: 0.1.21
   - apiVersion: v2
     appVersion: 1.16.0
@@ -263,7 +263,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: a605e133fa240f40d3f6d0c9133fefae256be3b6ae77afb68e16c26572e94449
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -276,10 +276,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.20/code-server-0.1.20.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.20/code-server-0.1.20.tgz
     version: 0.1.20
   - apiVersion: v2
     appVersion: 1.16.0
@@ -287,7 +287,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: ad804c7df8107727c7e960cfe9fda533646e09804378b177ac8c85e315034edb
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -300,10 +300,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.19/code-server-0.1.19.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.19/code-server-0.1.19.tgz
     version: 0.1.19
   - apiVersion: v2
     appVersion: 1.16.0
@@ -311,7 +311,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: c5ef9664d0b5396496280541c29a1548a1cec0526957eac8391d11fc23122d53
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -324,10 +324,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.18/code-server-0.1.18.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.18/code-server-0.1.18.tgz
     version: 0.1.18
   - apiVersion: v2
     appVersion: 1.16.0
@@ -335,7 +335,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 594c3aedbd2e729e3b46c97192266b759233e205d32954344c459432ad783bda
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -348,10 +348,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.17/code-server-0.1.17.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.17/code-server-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v2
     appVersion: 1.16.0
@@ -359,7 +359,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 2d4f63fbf82cd2a46099c4042da9279bdb5c740e7264ceba03bce287fc6f6a80
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -372,10 +372,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.16/code-server-0.1.16.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.16/code-server-0.1.16.tgz
     version: 0.1.16
   - apiVersion: v2
     appVersion: 1.16.0
@@ -383,7 +383,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 503f19aab0794c00615d32f9b59cb2f87749d846554f6fd8791ca827a56f5f6b
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -396,10 +396,10 @@ entries:
       name: Vincent Emonet
     name: code-server
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.15/code-server-0.1.15.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.15/code-server-0.1.15.tgz
     version: 0.1.15
   - apiVersion: v2
     appVersion: 1.16.0
@@ -407,7 +407,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: f1fd0c645483763482fd4bffa4c7005087e5aae7412005f782ea688d90ebd932
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -421,7 +421,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.13/code-server-0.1.13.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.13/code-server-0.1.13.tgz
     version: 0.1.13
   - apiVersion: v2
     appVersion: 1.16.0
@@ -429,7 +429,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 5bb612d6d7f2e74eb9e23e16525891e5e62f4ebb2d08590be0122cc75a08574d
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -443,7 +443,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.12/code-server-0.1.12.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.12/code-server-0.1.12.tgz
     version: 0.1.12
   - apiVersion: v2
     appVersion: 1.16.0
@@ -451,7 +451,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: f30d3ae1b5978d5f69c902ff02af25a2b81f5960fb14db09beb0f8ebe5cf377c
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -465,7 +465,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.11/code-server-0.1.11.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.11/code-server-0.1.11.tgz
     version: 0.1.11
   - apiVersion: v2
     appVersion: 1.16.0
@@ -473,7 +473,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 1f0aeb04113d59d3e9d433d2c078dd434bac7b3bf3293b646ec5c5e731eda51c
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -487,7 +487,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.10/code-server-0.1.10.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.10/code-server-0.1.10.tgz
     version: 0.1.10
   - apiVersion: v2
     appVersion: 1.16.0
@@ -495,7 +495,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 256c8b8dd0a598c8a979a30e0b0a4d7c06c29854c5ead1ad135ed7e14b81921c
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -509,7 +509,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.9/code-server-0.1.9.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.9/code-server-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v2
     appVersion: 1.16.0
@@ -517,7 +517,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 441dc02dde74903d862c1e4e002f2bb104b866eed65e44b1d14cbd4a419549e8
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -531,7 +531,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.8/code-server-0.1.8.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.8/code-server-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v2
     appVersion: 1.16.0
@@ -539,7 +539,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: a38631f3fd1de3a5c7f01fa6daa7fe0ad44bd3d0268e7be83c264f231dbb87d7
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -553,7 +553,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.7/code-server-0.1.7.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.7/code-server-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.16.0
@@ -561,7 +561,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 0e5dc5f8cf1490d53607cbbfd90ce267abd92cb0c66bf084e835308d30bf5862
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -575,7 +575,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.6/code-server-0.1.6.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.6/code-server-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.16.0
@@ -583,7 +583,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 2c2df6218bdda2b36fec159065d1f9c0794364871157b476d31ab653f9fdf587
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -597,7 +597,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.5/code-server-0.1.5.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.5/code-server-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
@@ -605,7 +605,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: afcb23b8c35b9606324b10a00f78bd11bd4d77092bb788229507238707e66b61
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -619,7 +619,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.4/code-server-0.1.4.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.4/code-server-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
@@ -627,7 +627,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: 208afa2ca2bd2b71fa46ce8b69906b044c0dca94bb06514912fc666053d3cdc8
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -641,7 +641,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.3/code-server-0.1.3.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.3/code-server-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
@@ -649,7 +649,7 @@ entries:
     description: A Helm chart to deploy VisualStudio Code server on Kubernetes and
       OpenShift
     digest: bc652babea5b03b8eb10aa21aa435cc95d21cd2b472ee45e059661e3a5639bbc
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://code.visualstudio.com/assets/images/code-stable.png
     keywords:
     - vscode
@@ -663,7 +663,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.2/code-server-0.1.2.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.2/code-server-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
@@ -675,7 +675,7 @@ entries:
     name: code-server
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/code-server-0.1.1/code-server-0.1.1.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/code-server-0.1.1/code-server-0.1.1.tgz
     version: 0.1.1
   jupyterlab:
   - annotations:
@@ -702,7 +702,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.38/jupyterlab-0.1.38.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.38/jupyterlab-0.1.38.tgz
     version: 0.1.38
   - annotations:
       artifacthub.io/operator: "false"
@@ -728,7 +728,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.37/jupyterlab-0.1.37.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.37/jupyterlab-0.1.37.tgz
     version: 0.1.37
   - annotations:
       artifacthub.io/operator: "false"
@@ -754,7 +754,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.36/jupyterlab-0.1.36.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.36/jupyterlab-0.1.36.tgz
     version: 0.1.36
   - annotations:
       artifacthub.io/operator: "false"
@@ -780,7 +780,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.35/jupyterlab-0.1.35.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.35/jupyterlab-0.1.35.tgz
     version: 0.1.35
   - annotations:
       artifacthub.io/operator: "false"
@@ -806,7 +806,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.34/jupyterlab-0.1.34.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.34/jupyterlab-0.1.34.tgz
     version: 0.1.34
   - annotations:
       artifacthub.io/operator: "false"
@@ -832,7 +832,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.33/jupyterlab-0.1.33.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.33/jupyterlab-0.1.33.tgz
     version: 0.1.33
   - annotations:
       artifacthub.io/operator: "false"
@@ -858,7 +858,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.31/jupyterlab-0.1.31.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.31/jupyterlab-0.1.31.tgz
     version: 0.1.31
   - annotations:
       artifacthub.io/operator: "false"
@@ -884,7 +884,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.27/jupyterlab-0.1.27.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.27/jupyterlab-0.1.27.tgz
     version: 0.1.27
   - annotations:
       artifacthub.io/operator: "false"
@@ -908,7 +908,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.25/jupyterlab-0.1.25.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.25/jupyterlab-0.1.25.tgz
     version: 0.1.25
   - annotations:
       artifacthub.io/operator: "false"
@@ -932,7 +932,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.24/jupyterlab-0.1.24.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.24/jupyterlab-0.1.24.tgz
     version: 0.1.24
   - annotations:
       artifacthub.io/operator: "false"
@@ -942,7 +942,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: acec7fd1ea83c3000f22b08ea4506ca470105fd9d05f4a8259934ab322f576c3
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -956,7 +956,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.23/jupyterlab-0.1.23.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.23/jupyterlab-0.1.23.tgz
     version: 0.1.23
   - annotations:
       artifacthub.io/operator: "false"
@@ -966,7 +966,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: cf17c681123e3e784297509f805639995c957c1d5e7bb41c2fa5212b9a94278c
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -980,7 +980,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.22/jupyterlab-0.1.22.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.22/jupyterlab-0.1.22.tgz
     version: 0.1.22
   - annotations:
       artifacthub.io/operator: "false"
@@ -990,7 +990,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: c34c25a0f9bddbbcb2079fdd3ed5280f0d69b0a1421533e148faefc8b17dcd9a
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1004,7 +1004,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.21/jupyterlab-0.1.21.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.21/jupyterlab-0.1.21.tgz
     version: 0.1.21
   - annotations:
       artifacthub.io/operator: "false"
@@ -1014,7 +1014,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: e0be308cf6eb9c0731d652d37a144315c993f2e8b9d084504b33486beb0ef95f
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1028,7 +1028,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.20/jupyterlab-0.1.20.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.20/jupyterlab-0.1.20.tgz
     version: 0.1.20
   - annotations:
       artifacthub.io/operator: "false"
@@ -1038,7 +1038,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: c33e55dc0c422df1d61bf0befcad270e2535285de7dd1ed0a29b71cc6c9001ef
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1052,7 +1052,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.19/jupyterlab-0.1.19.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.19/jupyterlab-0.1.19.tgz
     version: 0.1.19
   - annotations:
       artifacthub.io/operator: "false"
@@ -1062,7 +1062,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: 148d9e549ab37bba45df8acfd929ac6670a14826bd9a8418263e8c5f287ac47d
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1076,7 +1076,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.18/jupyterlab-0.1.18.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.18/jupyterlab-0.1.18.tgz
     version: 0.1.18
   - annotations:
       artifacthub.io/operator: "false"
@@ -1086,7 +1086,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: 54124f6c479bdad1d3563fbb61ea4490eeadf988c3f9483c2e91d9e1890c7f7a
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1100,7 +1100,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.17/jupyterlab-0.1.17.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.17/jupyterlab-0.1.17.tgz
     version: 0.1.17
   - annotations:
       artifacthub.io/operator: "false"
@@ -1110,7 +1110,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: 195c39afd554cb91ff61b2044c22ffb7546cb1506c00aa22ec0ca82a36ad35df
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1124,7 +1124,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.16/jupyterlab-0.1.16.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.16/jupyterlab-0.1.16.tgz
     version: 0.1.16
   - annotations:
       artifacthub.io/operator: "false"
@@ -1134,7 +1134,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: 05472c3593bb485b78a39b09182a823f82c76d937cab280f562c2fababa75dea
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1148,7 +1148,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.14/jupyterlab-0.1.14.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.14/jupyterlab-0.1.14.tgz
     version: 0.1.14
   - annotations:
       artifacthub.io/operator: "false"
@@ -1158,7 +1158,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: 567e31cef37742611e34c565195c2b0d3c2ec13bdbcad052ae233c496de9715e
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1172,7 +1172,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.12/jupyterlab-0.1.12.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.12/jupyterlab-0.1.12.tgz
     version: 0.1.12
   - annotations:
       artifacthub.io/operator: "false"
@@ -1182,7 +1182,7 @@ entries:
     description: A Helm chart to deploy JupyterLab based on the jupyter/docker-stacks
       on OpenShift and Kubernetes
     digest: 5c8e0c65e0bf35aca3dbc6b389027070e00372f09659d6846130d6b2e951b365
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1196,7 +1196,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.11/jupyterlab-0.1.11.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.11/jupyterlab-0.1.11.tgz
     version: 0.1.11
   - annotations:
       artifacthub.io/operator: "false"
@@ -1205,7 +1205,7 @@ entries:
     created: "2021-09-08T09:52:38.26727558Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: d9b7e227fdf50f684d64ce00af4fffc32c5e67d82c4dec435281a8e9adc88b33
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1219,7 +1219,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.10/jupyterlab-0.1.10.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.10/jupyterlab-0.1.10.tgz
     version: 0.1.10
   - annotations:
       artifacthub.io/operator: "false"
@@ -1228,7 +1228,7 @@ entries:
     created: "2021-09-07T18:56:48.929335415Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: ecb733720e84c863fe21fd419e56ba8f5fb829437c838015426eb7bc44e177b1
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1242,7 +1242,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.9/jupyterlab-0.1.9.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.9/jupyterlab-0.1.9.tgz
     version: 0.1.9
   - annotations:
       artifacthub.io/operator: "false"
@@ -1251,7 +1251,7 @@ entries:
     created: "2021-09-07T10:59:03.320974829Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: 03625d901b12837dda8a3f59045a3d1e67c27b16691254167a793473fdc5fcf8
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1265,14 +1265,14 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.8/jupyterlab-0.1.8.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.8/jupyterlab-0.1.8.tgz
     version: 0.1.8
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-09-07T08:38:09.620573936Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: b2d3a9427f7685086b9b5fdb7c8fb8ada19b0f5b94deb192555fd5b5edda0001
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1286,14 +1286,14 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.7/jupyterlab-0.1.7.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.7/jupyterlab-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-09-05T22:42:31.793606491Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: 2e812a7ee1b4d4aa0a5c661f77dc5344ba65068dc859da4e7cebe1693693bc98
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1307,14 +1307,14 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.6/jupyterlab-0.1.6.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.6/jupyterlab-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-09-05T22:30:42.985776219Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: 33e89944cd7248dc51c80f6bb43bdfd55205c41038aa9fe4bbd36e317f51d4ac
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1328,14 +1328,14 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.5/jupyterlab-0.1.5.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.5/jupyterlab-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-09-05T20:52:59.505471572Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: 659dead6348c457f9396c2ec0858de257fe08049a874d55180ea97d08c0883fa
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1349,14 +1349,14 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.4/jupyterlab-0.1.4.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.4/jupyterlab-0.1.4.tgz
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-09-05T19:23:10.324620968Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: 545a4b3ea78e4ed83f20128c5bec0bc5a8042e555acb198bfb029b03fac4329b
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1370,14 +1370,14 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.3/jupyterlab-0.1.3.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.3/jupyterlab-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-09-05T09:43:28.582622634Z"
     description: A Helm chart for JupyterLab on Kubernetes and OpenShift
     digest: 129e330e6b5eeb842e7f8176025ff12af19bb010d8d1912ee56dabafde79bde8
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png
     keywords:
     - jupyterlab
@@ -1391,7 +1391,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.2/jupyterlab-0.1.2.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.2/jupyterlab-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
@@ -1402,7 +1402,7 @@ entries:
     name: jupyterlab
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/jupyterlab-0.1.1/jupyterlab-0.1.1.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/jupyterlab-0.1.1/jupyterlab-0.1.1.tgz
     version: 0.1.1
   rstudio:
   - annotations:
@@ -1426,10 +1426,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.28/rstudio-0.1.28.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.28/rstudio-0.1.28.tgz
     version: 0.1.28
   - annotations:
       artifacthub.io/operator: "false"
@@ -1452,10 +1452,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.27/rstudio-0.1.27.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.27/rstudio-0.1.27.tgz
     version: 0.1.27
   - annotations:
       artifacthub.io/operator: "false"
@@ -1478,10 +1478,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.26/rstudio-0.1.26.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.26/rstudio-0.1.26.tgz
     version: 0.1.26
   - annotations:
       artifacthub.io/operator: "false"
@@ -1504,10 +1504,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.25/rstudio-0.1.25.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.25/rstudio-0.1.25.tgz
     version: 0.1.25
   - annotations:
       artifacthub.io/operator: "false"
@@ -1530,10 +1530,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.24/rstudio-0.1.24.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.24/rstudio-0.1.24.tgz
     version: 0.1.24
   - annotations:
       artifacthub.io/operator: "false"
@@ -1556,10 +1556,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.23/rstudio-0.1.23.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.23/rstudio-0.1.23.tgz
     version: 0.1.23
   - annotations:
       artifacthub.io/operator: "false"
@@ -1584,10 +1584,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.22/rstudio-0.1.22.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.22/rstudio-0.1.22.tgz
     version: 0.1.22
   - annotations:
       artifacthub.io/operator: "false"
@@ -1612,10 +1612,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.21/rstudio-0.1.21.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.21/rstudio-0.1.21.tgz
     version: 0.1.21
   - annotations:
       artifacthub.io/operator: "false"
@@ -1640,10 +1640,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.19/rstudio-0.1.19.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.19/rstudio-0.1.19.tgz
     version: 0.1.19
   - annotations:
       artifacthub.io/operator: "false"
@@ -1667,10 +1667,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.18/rstudio-0.1.18.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.18/rstudio-0.1.18.tgz
     version: 0.1.18
   - annotations:
       artifacthub.io/operator: "false"
@@ -1681,7 +1681,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: a112794d454b776e6d962241e41ff8312d160fc09c0b29c97da3589ebf6e1ff3
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1694,10 +1694,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.17/rstudio-0.1.17.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.17/rstudio-0.1.17.tgz
     version: 0.1.17
   - annotations:
       artifacthub.io/operator: "false"
@@ -1708,7 +1708,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: 5e5fa40eff70db1fd3c994045e3a3377a506127e7f8f5fdef52281e563336407
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1721,10 +1721,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.16/rstudio-0.1.16.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.16/rstudio-0.1.16.tgz
     version: 0.1.16
   - annotations:
       artifacthub.io/operator: "false"
@@ -1735,7 +1735,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: dc2e5b6a3d937011d4aa26bb30986cefa4ae8f268a4244b0980c130c2be7f031
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1748,10 +1748,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.15/rstudio-0.1.15.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.15/rstudio-0.1.15.tgz
     version: 0.1.15
   - annotations:
       artifacthub.io/operator: "false"
@@ -1762,7 +1762,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: aa24b06354726b5f2c74137faf8934b4a2421d17375c761b9aec275bbf507739
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1775,10 +1775,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.14/rstudio-0.1.14.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.14/rstudio-0.1.14.tgz
     version: 0.1.14
   - annotations:
       artifacthub.io/operator: "false"
@@ -1789,7 +1789,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: 509d2ae036fdd488c71ce53bf3d8ad5ab7d9929cc3d8d0170c6cda82d2be7c4c
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1802,10 +1802,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.13/rstudio-0.1.13.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.13/rstudio-0.1.13.tgz
     version: 0.1.13
   - annotations:
       artifacthub.io/operator: "false"
@@ -1816,7 +1816,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: bf71bfda3c5659667e038a7331ade1b743f7b72c48b1279e4524a59077d8fc9d
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1829,10 +1829,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.11/rstudio-0.1.11.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.11/rstudio-0.1.11.tgz
     version: 0.1.11
   - annotations:
       artifacthub.io/operator: "false"
@@ -1843,7 +1843,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: de802a8e4df1a7ccdd7127b3cbef12001c81a0663a411d571acc20427089a1b3
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1856,10 +1856,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.10/rstudio-0.1.10.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.10/rstudio-0.1.10.tgz
     version: 0.1.10
   - annotations:
       artifacthub.io/operator: "false"
@@ -1870,7 +1870,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: fbd2df7053e83beac56faad5d4f52c4679fe790da486681d3785ea2f45c54c61
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1883,10 +1883,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.9/rstudio-0.1.9.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.9/rstudio-0.1.9.tgz
     version: 0.1.9
   - apiVersion: v2
     appVersion: 3.2.0
@@ -1895,7 +1895,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: 741a77fc0d373a6d144da02bfd960aa6e9ba50a078a15115abd762ce591f1a74
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1908,10 +1908,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.7/rstudio-0.1.7.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.7/rstudio-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
     appVersion: 3.2.0
@@ -1920,7 +1920,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: 2e9500cfa298a571cb4172dab9502c6e65b44d32df743ccbd8b20c81a3859f64
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1933,10 +1933,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.6/rstudio-0.1.6.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.6/rstudio-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     appVersion: 3.2.0
@@ -1945,7 +1945,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: dc7f0892db938b3bb19434812979d16960ee1b26d4baa0253aaceb071497665b
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1958,10 +1958,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.5/rstudio-0.1.5.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.5/rstudio-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 3.2.0
@@ -1970,7 +1970,7 @@ entries:
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
     digest: 6dfb5e1b4010fe051b9b48a3b81159aa28474db0396b88c781c0e45ec5bd952d
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -1983,10 +1983,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.3/rstudio-0.1.3.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.3/rstudio-0.1.3.tgz
     version: 0.1.3
   - apiVersion: v2
     appVersion: 3.2.0
@@ -1998,7 +1998,7 @@ entries:
       https://github.com/MaastrichtU-IDS/rstudio for more details to build and customize
       the RStudio image "
     digest: d447f06701b7d9b6adb905f73b39340c6176f9bf95125e5a4f60388eabfdbfa6
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/512px-RStudio_logo_flat.svg.png
     keywords:
     - vscode
@@ -2011,10 +2011,10 @@ entries:
       name: Vincent Emonet
     name: rstudio
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/rstudio-0.1.0/rstudio-0.1.0.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/rstudio-0.1.0/rstudio-0.1.0.tgz
     version: 0.1.0
   webapp:
   - annotations:
@@ -2038,10 +2038,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.18/webapp-0.1.18.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.18/webapp-0.1.18.tgz
     version: 0.1.18
   - annotations:
       artifacthub.io/operator: "false"
@@ -2064,10 +2064,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.17/webapp-0.1.17.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.17/webapp-0.1.17.tgz
     version: 0.1.17
   - annotations:
       artifacthub.io/operator: "false"
@@ -2090,10 +2090,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.16/webapp-0.1.16.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.16/webapp-0.1.16.tgz
     version: 0.1.16
   - annotations:
       artifacthub.io/operator: "false"
@@ -2116,10 +2116,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.15/webapp-0.1.15.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.15/webapp-0.1.15.tgz
     version: 0.1.15
   - annotations:
       artifacthub.io/operator: "false"
@@ -2142,10 +2142,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.13/webapp-0.1.13.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.13/webapp-0.1.13.tgz
     version: 0.1.13
   - annotations:
       artifacthub.io/operator: "false"
@@ -2167,10 +2167,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.12/webapp-0.1.12.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.12/webapp-0.1.12.tgz
     version: 0.1.12
   - annotations:
       artifacthub.io/operator: "false"
@@ -2180,7 +2180,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 637c21326fcb3471853c02bcc926352fdb09921ca7ef8fcbcfe438b20d974206
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2192,10 +2192,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.11/webapp-0.1.11.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.11/webapp-0.1.11.tgz
     version: 0.1.11
   - annotations:
       artifacthub.io/operator: "false"
@@ -2205,7 +2205,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: f26b1802bc8ed7fa9fdad653889433c9a4da082f773902b518101fa919719a99
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2217,10 +2217,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.10/webapp-0.1.10.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.10/webapp-0.1.10.tgz
     version: 0.1.10
   - annotations:
       artifacthub.io/operator: "false"
@@ -2230,7 +2230,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 7ada3ca9eaadcd0fcaf514e2eb527d1084c7e3e8da3f6cfccaefd430940c69d9
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2242,10 +2242,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.9/webapp-0.1.9.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.9/webapp-0.1.9.tgz
     version: 0.1.9
   - annotations:
       artifacthub.io/operator: "false"
@@ -2255,7 +2255,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 00c6b7de132a6cbe19ac8fae01f2c352518272c7891edcafd8904031f5fac60e
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2267,10 +2267,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.8/webapp-0.1.8.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.8/webapp-0.1.8.tgz
     version: 0.1.8
   - annotations:
       artifacthub.io/operator: "false"
@@ -2280,7 +2280,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 1430dd3d5aecb31567e0dd9b75949a3b930d3db10dcbe78d8b871ddea35701f2
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2292,10 +2292,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.7/webapp-0.1.7.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.7/webapp-0.1.7.tgz
     version: 0.1.7
   - annotations:
       artifacthub.io/operator: "false"
@@ -2305,7 +2305,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: f6f6b2062da88bc1049a87354bac521bc9d6533426ceb23d3a12c8685ca6938b
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2317,10 +2317,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.6/webapp-0.1.6.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.6/webapp-0.1.6.tgz
     version: 0.1.6
   - annotations:
       artifacthub.io/operator: "false"
@@ -2330,7 +2330,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 18d33debf4d12d61eea082764ac08f0ed3ca5c79586b4e835f325c43519444a6
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2342,10 +2342,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.5/webapp-0.1.5.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.5/webapp-0.1.5.tgz
     version: 0.1.5
   - annotations:
       artifacthub.io/operator: "false"
@@ -2355,7 +2355,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 374f6ccbdf05243ce160d13f2b0a4a47626b8eab2ba33176d88caa65e5f76721
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2367,10 +2367,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.4/webapp-0.1.4.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.4/webapp-0.1.4.tgz
     version: 0.1.4
   - annotations:
       artifacthub.io/operator: "false"
@@ -2380,7 +2380,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 6a192f0232e6fcc56a32f3c9b6c2cda42b255ee06663580b617e7b8abadd1021
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2392,10 +2392,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.3/webapp-0.1.3.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.3/webapp-0.1.3.tgz
     version: 0.1.3
   - annotations:
       artifacthub.io/operator: "false"
@@ -2405,7 +2405,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 766f97cef0d12f50df7c8eca21f3d8e8be106e965afd8db4cffcd2084fd1bf5b
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2417,10 +2417,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.2/webapp-0.1.2.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.2/webapp-0.1.2.tgz
     version: 0.1.2
   - annotations:
       artifacthub.io/operator: "false"
@@ -2430,7 +2430,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 44baab286f5adc97e54eeaadaf24fbbacd7094e351567c209e88ea9239285d4b
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2442,10 +2442,10 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.1/webapp-0.1.1.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.1/webapp-0.1.1.tgz
     version: 0.1.1
   - annotations:
       artifacthub.io/operator: "false"
@@ -2455,7 +2455,7 @@ entries:
     description: 'A generic reuseable Helm chart for deploying almost any dockerized
       application exposing a web interface to a HTTPS route on OpenShift and Kubernetes '
     digest: 61aff096404706cf6d2ca58255dcfd9a07eb3dedd7e9481bfd691455a4f848ae
-    home: https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    home: https://github.com/nocsyshelmrepo/dsri-helm-charts
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/1024px-Logo_Semantic_Web.svg.png
     keywords:
     - webapp
@@ -2467,9 +2467,9 @@ entries:
       name: Vincent Emonet
     name: webapp
     sources:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/MaastrichtU-IDS/dsri-helm-charts/releases/download/webapp-0.1.0/webapp-0.1.0.tgz
+    - https://github.com/nocsyshelmrepo/dsri-helm-charts/releases/download/webapp-0.1.0/webapp-0.1.0.tgz
     version: 0.1.0
 generated: "2022-05-03T07:55:54.90931867Z"
